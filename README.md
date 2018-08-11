@@ -1,6 +1,15 @@
-# vue-cli
+# Simple-Math-Question-for-Primary-School
 
-> A Vue.js project
+#WebPack #VueJS #math
+
+
+<br/>
+<img src="https://raw.githubusercontent.com/charlotte-lau/Simple-Math-Question-for-Primary-School-/master/preview.gif" >
+
+
+
+
+
 
 ## Build Setup
 
@@ -15,4 +24,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
